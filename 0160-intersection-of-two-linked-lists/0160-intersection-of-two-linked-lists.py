@@ -6,36 +6,27 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        def collision(h1,h2,d):
-
-            while d:
-                d-=1
-                h2=h2.next
-            
-            while h1!=h2:
-                h1=h1.next
-                h2=h2.next
-            
-            return h1
-        
+        if not headA or not headB:
+            return None
         t1=headA
         t2=headB
 
-        n1=n2=0
-
-        # length of l1-
-        while t1:
-            n1+=1
+        while t1!=t2:
             t1=t1.next
-
-        while t2:
-            n2+=1
             t2=t2.next
-        
-        if n1<n2:
-            return collision(headA,headB,n2-n1)
-        else:
-            return collision(headB,headA,n1-n2)
+            if t1==t2:
+                return t1
+
+            if  t1==None:
+                t1=headB
+            
+            if t2==None:
+                t2=headA
+
+
+        return t1
+
+
                 
 
             

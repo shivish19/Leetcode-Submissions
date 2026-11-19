@@ -19,8 +19,9 @@ class Solution:
         if k==0:
             return head
 
-        
-        res=l[n-k:]+l[:n-k]
+        l=l[::-1]
+        res = l[:k][::-1] + l[k:][::-1]
+
         
         dummy=ListNode(-1)
         head=dummy

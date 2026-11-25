@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shivish19/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0496-next-greater-element-i](https://github.com/shivish19/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivish19/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/shivish19/Leetcode-Submissions/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/shivish19/Leetcode-Submissions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/shivish19/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shivish19/Leetcode-Submissions/tree/master/0155-min-stack) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shivish19/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shivish19/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shivish19/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/shivish19/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivish19/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/shivish19/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivish19/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shivish19/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shivish19/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivish19/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/shivish19/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivish19/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shivish19/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivish19/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivish19/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/shivish19/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
